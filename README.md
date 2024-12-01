@@ -6,7 +6,7 @@
 
 ## 🖼️ 預覽
 
-![專案截圖]([https://i.imgur.com/gtyQwND.png])
+![專案截圖](https://i.imgur.com/gtyQwND.png)
 
 ---
 
