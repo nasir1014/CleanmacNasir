@@ -26,6 +26,9 @@
 ├── CleanmacNasir.sh    # 原始碼
 └── README.md           # 說明文件
 
+---
+```
+
 ## 🚀 如何使用
 1. 安裝
 
